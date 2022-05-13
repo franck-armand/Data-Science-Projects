@@ -51,10 +51,14 @@ a snippet of the resulting graphs (*__check notebook for a detailed implementati
 ### Conclusion
 We investigated the proliferation of covid-19 across countries as well as its impact on the global economy. We provided a detailed analysis and implementation of our approach. Here is the result of our findings: We discovered that the covid-19 outbreak resulted in the greatest number of covid-19 cases and deaths in the United States. One key explanation for this is the United States' stringency index which is quite low. We also looked at how each country's GDP per capita was affected by the covid-19 outbreak
 
-### Requirements
+### Installation
 
 ```
-Python 
-pandas
-plotly
+pip install python==3.7.6 
+pip install pandas==1.4.2
+pip install plotly==5.8.0
+```
+### Usage
+```
+Run notebook cells
 ```
