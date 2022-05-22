@@ -52,3 +52,4 @@ contains the following features as follows:
 
 ---
 ###  <u>**Online Payments Fraud Detection Model</u>**
+Here, we trained various classification models to determine a Fraudulent transaction from a non Fraudulent one.
