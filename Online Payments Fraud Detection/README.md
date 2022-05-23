@@ -53,3 +53,8 @@ contains the following features as follows:
 ---
 ###  <u>**Online Payments Fraud Detection Model</u>**
 Here, we trained various classification models to determine a Fraudulent transaction from a non Fraudulent one.
+
+|Models|Accuracy|
+|----- |--------|
+|**Logistic Regression**|**0.9991**
+|**Decision Tree** | **0.9997**
