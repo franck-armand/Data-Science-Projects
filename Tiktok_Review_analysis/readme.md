@@ -22,4 +22,8 @@ The dataset we are going to work with is represented as follows:
 ### 1. **Ratings distribution**
 ![picture](./graph_results/1.png)
 
-### 2. **Transaction type distribution**
+### 2. **Review WordCloud distribution**
+![picture](./graph_results/2.png)
+
+### 2. **Bad Review WordCloud distribution**
+![picture](./graph_results/3.png)
