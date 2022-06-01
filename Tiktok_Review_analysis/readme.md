@@ -19,5 +19,7 @@ The dataset we are going to work with is represented as follows:
 
 ---
 ### <u>_Some Analysis Result_</u>:
-### 1. **Transaction type distribution**
+### 1. **Ratings distribution**
 ![picture](./graph_results/1.png)
+
+### 2. **Transaction type distribution**
