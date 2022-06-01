@@ -18,3 +18,6 @@ The dataset we are going to work with is represented as follows:
 | gp:AOqpTOFB6Ndao8IHRpOJRmbSknwMGxHcwYzux93YyXIcbVkHxprLmXnZWF1WGd3ev--Jt0t4t-MCn0yOVQt6Cw | Mavis Kotoka   | https://play-lh.googleusercontent.com/a/AATXAJwyQ1YmZynjOPvAPE_E_VO89J_iUWvqAwKf6y6x=mo | Very interesting app                                                                                                                             |       5 |               0 | 22.1.5                 | 2022-04-05 23:17:04 |            nan |         nan |
 
 ---
+### <u>_Some Analysis Result_</u>:
+### 1. **Transaction type distribution**
+![picture](./graph_results/1.png)
