@@ -25,8 +25,8 @@ The dataset we are going to work with is represented as follows:
 ### 2. **Review WordCloud distribution**
 ![picture](./graph_results/2.png)
 
-### 2. **Bad Review WordCloud distribution**
+### 3. **Bad Review WordCloud distribution**
 ![picture](./graph_results/3.png)
 
-### 2. **TikTok logo WorldCloud**
+### 4. **TikTok logo WorldCloud**
 ![picture](./graph_results/4.png)
