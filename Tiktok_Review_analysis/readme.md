@@ -31,5 +31,17 @@ The dataset we are going to work with is represented as follows:
 ### 4. **TikTok logo WorldCloud**
 ![picture](./graph_results/4.png)
 
-### Conclusion
+### **Conclusion**
 We analyzed the user's review for TikTok and designed a WordCloud based on the most frequent words.
+### **requirements**
+```
+pandas
+numpy
+PIL
+plotly
+re
+wordcloud
+matplotlib
+nltk
+```
+
