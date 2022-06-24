@@ -3,7 +3,7 @@
 
 
 ### **__TODO__**
-- [ ] Data loading
+- [x] Data loading
 - [ ] Data exploratory 
 - [ ] Data visualization 
 - [ ] Complete readme
