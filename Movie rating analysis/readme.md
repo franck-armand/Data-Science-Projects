@@ -4,6 +4,6 @@
 
 ### **__TODO__**
 - [x] Data loading
-- [ ] Data exploratory 
+- [x] Data exploratory 
 - [ ] Data visualization 
 - [ ] Complete readme
