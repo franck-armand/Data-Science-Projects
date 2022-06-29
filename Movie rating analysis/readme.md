@@ -17,13 +17,13 @@ The dataset is mainly composed of two files:
 
 - A file containning user __id, movie id, ratings given by the user and the timestamp__ of the ratings.
 
-|   Id | Title                                                | Genre               |
-|-----:|:-----------------------------------------------------|:--------------------|
-|   10 | La sortie des usines Lumière (1895)                  | Documentary|Short   |
-|   12 | The Arrival of a Train (1896)                        | Documentary|Short   |
-|   25 | The Oxford and Cambridge University Boat Race (1895) | nan                 |
-|   91 | Le manoir du diable (1896)                           | Short|Horror        |
-|  131 | Une nuit terrible (1896)                             | Short|Comedy|Horror |
+|   User |               Id |   Ratings |   Timestamp |
+|-------:|-----------------:|----------:|------------:|
+|      2 | 499549           |         9 | 1.37675e+09 |
+|      2 |      1.30559e+06 |         8 | 1.37674e+09 |
+|      2 |      1.42854e+06 |         1 | 1.37131e+09 |
+|      3 |  75314           |         1 | 1.59547e+09 |
+|      3 | 102926           |         9 | 1.59015e+09 |
 
 
 
