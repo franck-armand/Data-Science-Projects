@@ -15,7 +15,7 @@ The dataset is mainly composed of two files:
 |   91 | Le manoir du diable (1896)                           | Short|Horror        |
 |  131 | Une nuit terrible (1896)                             | Short|Comedy|Horror |
 
-- A file containning user __id, movie id, ratings given by the user and the timestamp__ of the ratings.
+- A file containing user __id, movie id, ratings given by the user and the timestamp__ of the ratings.
 
 |   User |               Id |   Ratings |   Timestamp |
 |-------:|-----------------:|----------:|------------:|
@@ -25,7 +25,7 @@ The dataset is mainly composed of two files:
 |      3 |  75314           |         1 | 1.59547e+09 |
 |      3 | 102926           |         9 | 1.59015e+09 |
 
-
+---
 
 
 ### **_TODO__**
