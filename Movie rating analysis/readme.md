@@ -51,6 +51,11 @@ The dataset is mainly composed of two files:
 
 ...
 ![](./result_analysis/5.png)
+
+- __Top 10 movies rated 00/10__
+
+...
+![](./result_analysis/6.png)
 ### **_TODO__**
 - [x] Data loading
 - [x] Data exploratory 
