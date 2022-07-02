@@ -59,5 +59,5 @@ The dataset is mainly composed of two files:
 ### **_TODO__**
 - [x] Data loading
 - [x] Data exploratory 
-- [ ] Data visualization 
+- [x] Data visualization 
 - [ ] Complete readme
