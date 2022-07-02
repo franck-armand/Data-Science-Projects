@@ -31,6 +31,11 @@ The dataset is mainly composed of two files:
 
 ...
 ![](./result_analysis/1.png)
+
+- __Top Genre distribution__
+
+...
+![](./result_analysis/2.png)
 ### **_TODO__**
 - [x] Data loading
 - [x] Data exploratory 
