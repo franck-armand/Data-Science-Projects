@@ -36,6 +36,11 @@ The dataset is mainly composed of two files:
 
 ...
 ![](./result_analysis/2.png)
+
+- __Ratings and top 10 genre distributions__
+
+...
+![](./result_analysis/3.png)
 ### **_TODO__**
 - [x] Data loading
 - [x] Data exploratory 
