@@ -27,7 +27,10 @@ The dataset is mainly composed of two files:
 
 ---
 ### 2. <u> _Result analysis_</u>:
+- __Movie Ratings Distribution__
 
+...
+![](./result_analysis/1.png)
 ### **_TODO__**
 - [x] Data loading
 - [x] Data exploratory 
