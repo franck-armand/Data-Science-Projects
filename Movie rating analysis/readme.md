@@ -54,7 +54,8 @@ Here we check the first top 10 movies title with the ratings of
 
 - __Top 10 movies rated 05/10__
 
-...
+Here we check the first top 10 movies title with the ratings of
+05/10.
 ![](./result_analysis/5.png)
 
 - __Top 10 movies rated 00/10__
