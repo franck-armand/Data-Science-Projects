@@ -64,7 +64,3 @@ Here we check the first top 10 movies title with the ratings of
 00/10.
 ![](./result_analysis/6.png)
 
-- [x] Data loading
-- [x] Data exploratory 
-- [x] Data visualization 
-- [x] Complete readme
