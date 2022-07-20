@@ -48,7 +48,8 @@ genre and movie ratings.
 
 - __Top 10 movies rated 10/10__
 
-...
+Here we check the first top 10 movies title with the ratings of
+10/10.
 ![](./result_analysis/4.png)
 
 - __Top 10 movies rated 05/10__
