@@ -60,7 +60,8 @@ Here we check the first top 10 movies title with the ratings of
 
 - __Top 10 movies rated 00/10__
 
-...
+Here we check the first top 10 movies title with the ratings of
+00/10.
 ![](./result_analysis/6.png)
 
 - [x] Data loading
