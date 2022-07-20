@@ -42,7 +42,8 @@ present in our dataset along with their value count.
 
 - __Ratings and top 10 genre distributions__
 
-...
+Here we provide a comparative analysis of the top 10
+genre and movie ratings.
 ![](./result_analysis/3.png)
 
 - __Top 10 movies rated 10/10__
