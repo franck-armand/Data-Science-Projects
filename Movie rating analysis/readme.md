@@ -29,7 +29,9 @@ The dataset is mainly composed of two files:
 ### 2. <u> _Result analysis_</u>:
 - __Movie Ratings Distribution__
 
-...
+The movie rating distribution shows the ratings per movies,
+on the X-axis we can see ratings from 0 to 10 along with their
+respective numbers.
 ![](./result_analysis/1.png)
 
 - __Top Genre distribution__
@@ -56,8 +58,8 @@ The dataset is mainly composed of two files:
 
 ...
 ![](./result_analysis/6.png)
-### **_TODO__**
+
 - [x] Data loading
 - [x] Data exploratory 
 - [x] Data visualization 
-- [ ] Complete readme
+- [x] Complete readme
