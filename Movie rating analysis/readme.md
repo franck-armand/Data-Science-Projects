@@ -64,3 +64,8 @@ Here we check the first top 10 movies title with the ratings of
 00/10.
 ![](./result_analysis/6.png)
 
+---
+### 3. <u> _Conclusion_</u>:
+In this tutorial, we went through the movie rating
+dataset and provided a thorough analysis. All details
+are provided in the notebook. 
