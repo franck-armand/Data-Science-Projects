@@ -36,7 +36,8 @@ respective numbers.
 
 - __Top Genre distribution__
 
-...
+The top 10 genre, is the distribution of the genre of movies
+present in our dataset along with their value count.
 ![](./result_analysis/2.png)
 
 - __Ratings and top 10 genre distributions__
